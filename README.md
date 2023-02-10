@@ -5,3 +5,5 @@ Exercícios e testes da aula de Algoritmos e Programação de Computadores I - U
 
 - Algoritmo Filme Coringa
 - Média de Notas
+- Conversão Celsius x Fahrenheit
+- Soma dos Números naturais 
