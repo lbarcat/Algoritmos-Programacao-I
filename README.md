@@ -7,3 +7,4 @@ Exercícios e testes da aula de Algoritmos e Programação de Computadores I - U
 - Média de Notas
 - Conversão Celsius x Fahrenheit
 - Soma dos Números naturais 
+- Média Harmônica
