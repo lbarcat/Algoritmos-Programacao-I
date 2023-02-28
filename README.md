@@ -5,3 +5,5 @@ Exercícios e testes da aula de Algoritmos e Programação de Computadores I - U
 
 - Semana 1 - Exercícios
 - Semana 2 - Exercícios de Apoio
+- Semana 3 - Exercícios de Apoio
+- Semana 4 - Exercícios de Apoio
